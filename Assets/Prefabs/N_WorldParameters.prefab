@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3403667609771918083}
   - component: {fileID: 3403667609771918092}
   m_Layer: 0
-  m_Name: WorldParameters
+  m_Name: N_WorldParameters
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
